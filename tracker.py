@@ -10,7 +10,6 @@ PLATFORMS = [
     "bWFzdG9kb24uc29jaWFs",
     "bGlua2VkaW4uY29t",
     "ZmFjZWJvb2suY29t",
-    "YnNreS5zb2NpYWw=",
 ]
 
 def check_platform(encoded):
